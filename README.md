@@ -22,8 +22,9 @@ Por lo tanto, el procedimiento de clonado del repositorio es el siguiente:
 3. Tras abrirse el Git Bash, escribir el comando git clone y pegar el enlace del repositorio.
 4. Presionar la tecla ***Enter***.
 
-Listo, así de fácil ya tienes tu repositorio clonado.
+Listo, así de fácil el repositorio ya estará clonado.
 
 ## Ejemplo
 
 git clone https://github.com/erwincitoo/ERWIN-ERAZO---SIS112.git
+
