@@ -1,0 +1,4 @@
+print("Ingrese un número")
+num = int(input())
+resultado = int((num*num+num)/2)
+print(resultado)
